@@ -47,7 +47,6 @@
     background-color: #F9F4E8;
     margin: auto;
     font-family: 'Poppins';
-
     color: #5C3D00;
 }
 
@@ -76,7 +75,6 @@
     align-items: center;
     justify-content: space-around;
     padding-top: 25px;
-    
 }
 
 #logo{
@@ -84,11 +82,10 @@
     background-image: url(../img/melopolis.png);
     width: 14.2%;
     height:100px;
-    margin-right: 1000px;
+    margin-right: 1100px;
     background-size: contain;
     background-repeat: no-repeat;
     top: 10px;
-   
 }
 #barrinha a{
     position: relative;

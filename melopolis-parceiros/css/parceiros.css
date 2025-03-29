@@ -50,13 +50,13 @@ main{
 
 #logo{
     position: absolute;
-    background-image: url(imagens2/melopolis_preto.png);
+    background-image: url(../imagens2/melopolis_preto.png);
     width: 14.2%;
     height:100px;
     margin-right: 1100px;
     background-size: contain;
     background-repeat: no-repeat;
-   
+    top:5px;
 }
 #barrinha a{
     position: relative;
