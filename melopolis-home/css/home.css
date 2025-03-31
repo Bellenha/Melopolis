@@ -46,7 +46,7 @@ main{
     background-color: #F9F4E8;
     margin: auto;
     width: 99%;
-    height: 4200px;
+    height: auto;
 }
 #barrinha{
     position: relative;
@@ -93,7 +93,7 @@ main{
     background-color: #5C3D00;
     color: #F9F4E8;
     transition: 1s all;
-    font-family: Poppins-semibold;
+    font-family: 'Poppins-medium';
 }
 
 
